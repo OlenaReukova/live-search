@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "mustard-ui": "^1.0.4"
+  },
+  "name": "live-search",
+  "version": "1.0.0",
+  "main": "live_search.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node live_search.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

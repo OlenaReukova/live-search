@@ -1,0 +1,25 @@
+.block-25-h2 {
+  font-size: 18px;
+  text-align: center;
+}
+
+.block-25 h3 {
+  font-size: 14px;
+  text-align: center;
+}
+
+#elastic {
+  display: block;
+  margin: 40px 0;
+}
+.text-center {
+  text-align: center;
+}
+
+.elastic li {
+  transition: all ease 500ms;
+}
+
+.elastic li.hide {
+  display: none;
+}
